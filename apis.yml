@@ -1,22 +1,59 @@
 aid: dolly
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/dolly.png
 name: Dolly
-description: Dolly is a company surfaced as a portfolio company of version-one-ventures and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Dolly was a Seattle-based on-demand moving and last-mile delivery marketplace that connected
+  people who needed help moving furniture and large items with independent "Helpers" who owned pickup trucks
+  and vans, coordinated through consumer and retail-partner mobile apps. It grew a same-day big-and-bulky
+  delivery network used by retailers such as IKEA, Costco, Lowe's, West Elm, and Peloton. Dolly was acquired
+  and folded into TaskRabbit (owned by IKEA / Ingka Group); as of 2026 the dolly.com domain 301-redirects
+  entirely to taskrabbit.com/delivery, and the service now operates under the "Taskrabbit Delivery" brand.
+  No standalone Dolly-owned developer portal, public API, or well-known discovery surface survives — every
+  dolly.com path redirects into TaskRabbit. This profile records the honest disposition of the company; the
+  developer/API footprint now lives (if anywhere) under TaskRabbit, not Dolly.
 url: https://raw.githubusercontent.com/api-evangelist/dolly/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - version-one-ventures
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: acquired-absorbed
+x-status: acquired
+x-successor: taskrabbit
+x-successor-brand: Taskrabbit Delivery
+x-enrichment-note: 'Researched 2026-07-18: dolly.com 301-redirects wholesale to taskrabbit.com/delivery;
+  no standalone Dolly developer surface, API, or /.well-known discovery documents survive. No artifacts
+  were generated to avoid misattributing TaskRabbit assets to Dolly.'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Delivery
+- Last Mile Delivery
+- Logistics
+- Moving
+- On Demand
+- Marketplace
+- Acquired
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
