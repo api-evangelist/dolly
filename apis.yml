@@ -34,7 +34,7 @@ x-successor-brand: Taskrabbit Delivery
 x-enrichment-note: 'Researched 2026-07-18: dolly.com 301-redirects wholesale to taskrabbit.com/delivery;
   no standalone Dolly developer surface, API, or /.well-known discovery documents survive. No artifacts
   were generated to avoid misattributing TaskRabbit assets to Dolly.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
