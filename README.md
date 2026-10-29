@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Dolly is a company surfaced as a portfolio company of version-one-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: version-one-ventures
+Dolly was a Seattle-based on-demand moving and last-mile delivery marketplace that connected people who needed help moving furniture and large items with independent "Helpers" who owned pickup trucks and vans, coordinated through consumer and retail-partner mobile apps. It grew a same-day big-and-bulky delivery network used by retailers such as IKEA, Costco, Lowe's, West Elm, and Peloton. Dolly was acquired and folded into TaskRabbit (owned by IKEA / Ingka Group); as of 2026 the dolly.com domain 301-redirects entirely to taskrabbit.com/delivery, and the service now operates under the "Taskrabbit Delivery" brand. No standalone Dolly-owned developer portal, public API, or well-known discovery surface survives — every dolly.com path redirects into TaskRabbit. This profile records the honest disposition of the company; the developer/API footprint now lives (if anywhere) under TaskRabbit, not Dolly.
+
+**Areas:** Company · Delivery · Last Mile Delivery · Logistics · Moving · On-Demand · Marketplace · Acquired
+
+## Dolly on APIs.io (historical record)
+
+Everything profiled for Dolly is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dolly/](https://apis.io/providers/dolly/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Dolly: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dolly/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
